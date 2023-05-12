@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EJERCICIO_ARRAY_2D",
+            "request": "launch",
+            "mainClass": "EJERCICIO_ARRAY_2D",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "RANDOM_0_100",
+            "request": "launch",
+            "mainClass": "RANDOM_0_100",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Matrices_bidimencionales_II",
+            "request": "launch",
+            "mainClass": "Matrices_bidimencionales_II",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Matrices_bidimencionales",
+            "request": "launch",
+            "mainClass": "Matrices_bidimencionales",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Random_0_100",
+            "request": "launch",
+            "mainClass": "Random_0_100",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Matrices_uso_II",
+            "request": "launch",
+            "mainClass": "Matrices_uso_II",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Acotar_decimales",
+            "request": "launch",
+            "mainClass": "Acotar_decimales",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Bucles_For",
+            "request": "launch",
+            "mainClass": "Bucles_For",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Bucles_adivina_numero",
+            "request": "launch",
+            "mainClass": "Bucles_adivina_numero",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Bucles_comprueba_mail",
+            "request": "launch",
+            "mainClass": "Bucles_comprueba_mail",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Bucles_contraseña",
+            "request": "launch",
+            "mainClass": "Bucles_contraseña",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Bucles_factorial",
+            "request": "launch",
+            "mainClass": "Bucles_factorial",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Bucles_peso_ideal",
+            "request": "launch",
+            "mainClass": "Bucles_peso_ideal",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Calculos_con_Math",
+            "request": "launch",
+            "mainClass": "Calculos_con_Math",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Concatenar_muchas_variables",
+            "request": "launch",
+            "mainClass": "Concatenar_muchas_variables",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Condicionales_evalua_edad",
+            "request": "launch",
+            "mainClass": "Condicionales_evalua_edad",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Condicionales_evalua_edad_II",
+            "request": "launch",
+            "mainClass": "Condicionales_evalua_edad_II",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Declaraciones_Operadores",
+            "request": "launch",
+            "mainClass": "Declaraciones_Operadores",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "EJERCICIO_AREAS",
+            "request": "launch",
+            "mainClass": "EJERCICIO_AREAS",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Entrada_ejemplo_I",
+            "request": "launch",
+            "mainClass": "Entrada_ejemplo_I",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Entrada_ejemplo_II",
+            "request": "launch",
+            "mainClass": "Entrada_ejemplo_II",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Entrada_numeros",
+            "request": "launch",
+            "mainClass": "Entrada_numeros",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Hola_mundo",
+            "request": "launch",
+            "mainClass": "Hola_mundo",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Importar",
+            "request": "launch",
+            "mainClass": "Importar",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Manipula_cadenas",
+            "request": "launch",
+            "mainClass": "Manipula_cadenas",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Manipula_cadenas_II",
+            "request": "launch",
+            "mainClass": "Manipula_cadenas_II",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Manipula_cadenas_III",
+            "request": "launch",
+            "mainClass": "Manipula_cadenas_III",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Matrices_uso",
+            "request": "launch",
+            "mainClass": "Matrices_uso",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "PrimeraClase",
+            "request": "launch",
+            "mainClass": "PrimeraClase",
+            "projectName": "Testeo_ea03486"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "Testeo_ea03486"
+        }
+    ]
+}
